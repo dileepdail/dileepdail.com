@@ -1,0 +1,19 @@
+link : 	
+
+1. Goto folder which you want to push code and open git here.
+2. open git bash
+3. Type git init. It will create one hidden file in the folder named .git
+4. then git config --global user.name 'Dileep Dail'
+5. then git config --global user.email 'dileepdail@gmail.com'
+6. then git add fiename.ext
+7. Then can check the status of files in staging area. by typing- git status
+8. We can remove files from staging area by typing-  git rm --cached filename
+9. We can also add file by using *.jsp or . by typing git add .
+10. then we can commit using git commit
+11. then type i to insert into edit mode in editor.
+12. Then remove comment sign from Initial commit.
+13. Then press Esc and then type :wq
+14. Or we can type git commit -m 'your comment'. This will skip the editing step
+15. If we want to skip some of the file form adding to repository then we will crete one .gitignore file then mention the name of file or folder in the file
+16. git remote add origin "URL"
+17. git push -u origin master
