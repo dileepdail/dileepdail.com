@@ -574,11 +574,11 @@ header {
     position: absolute;
     top: -34px;
     right: 0;
-    color: #002bdc; }
+    color: #deb82c; }
   .progress-bar.color-1 {
-    background: #002bdc; }
+    background: #deb82c; }
     .progress-bar.color-1:after {
-      background: #002bdc; }
+      background: #deb82c; }
 
 .about-2 {
   margin-bottom: 20px; }
@@ -1347,7 +1347,7 @@ input[type="text"] {
 
 .colorlib-footer {
   padding-bottom: 5em;
-  background: #002bdc;
+  background: #96af4b;
   color: rgba(255, 255, 255, 0.9); }
   .colorlib-footer a {
     color: #fff; }
